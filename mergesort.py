@@ -1,3 +1,4 @@
+# O(n log n)
 def merge(a, b):
 	arr = []
 	i = 0
